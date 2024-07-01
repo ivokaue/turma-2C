@@ -1,4 +1,21 @@
-boby{
-background-color:# 383d58;
-color: white 
+* {
+margin: 0;
+padding: 0;
 }
+
+body{
+    font-family: "poppins", sans-serif;
+}
+
+.cabecalho-imagem {
+width: 20%;
+}
+
+.cabecalho{
+    background-color: #424E61;
+color: white;
+display: flex;
+justify-content: space-around;
+padding: 24px 0;
+}
+
