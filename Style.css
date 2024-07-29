@@ -38,4 +38,14 @@ padding: 24px 0;
 align-items: center;
 padding: 24px 0;
 }
-.escola-div-conteudo
+.escola-div-conteudo{
+    width: 35%;
+}
+
+escola-titulo{
+    padding: 24px 0;
+}
+
+p{
+    padding: 12px 0;
+}
